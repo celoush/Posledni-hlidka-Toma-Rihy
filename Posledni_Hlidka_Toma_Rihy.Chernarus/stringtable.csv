@@ -1,0 +1,71 @@
+LANGUAGE,"English","Czech"
+STR_CELO_LOAD_TEXT,"Prepare for patrol","Připrav se na hlídku..."
+STR_CELO_MissionName,"Last Patrol of Tom Říha","Poslední hlídka Toma Říhy"
+STR_CELO_DiaryName,"Patrol","Hlídka"
+STR_CELO_DiaryDescription,"","Doba je zlá. Čedaci napadají vládní vojáky téměř neustále a ti tak raději zůstavají u moře a do vnitrozemí téměř nejezdí. Navíc se čedaci čím dál více soustředí v naší oblasti a střety jsou téměř každodenní. A bohužel i místní to poznávají a začínají se nás pomalu stranit, protože se bojí čedacké odvety. Raději jsme tedy zvolili systém předávání zpráv na předem dohodnutých místech. Naše aktivitu se teď snažíme zvyšovat a úspěchem je, jsme čedaky donutili, aby se už tak klidně nepromenádovali po silnicích a ve vesnicích jako před pár týdny. Jenže o to těžší boje nás teď čekají. Ten se totiž zúžil na střety našich a čedackých hlídek.<br />Dnes nás čeká dlouhá večerní hlídka a přesun pozice. Dopoledne měl náš kontakt z velení umístit zprávu na protější kopec Dubina, kterou bychom měli najít a jejich požadavky pokud možno splnit. Pak máme v plánu vyrazit na další kontaktní bod, což je opuštěná stará stodola, kde pro změnu předáme velení zprávu my, tedy až jejich úkoly splníme. Pokud nebude uvedeno ve zprávě jinak, pak dodržíme dohodnutý plán a přesuneme se do staré vojenské základny u Dubrovky. Našim úkolem bude napadat čedaky více v týlu a donutit je zase rozdělit své síly. Doufejme, že se situace brzy změní, protože takhle to dlouho nevydržíme.<br />V okolí máme několik skrytých beden s municí, kde můžeme případně doplnit střelivo.<br />Také by bylo dobré zkontrolovat určitá místa, zda nám místní nezanechali nějaké zprávy."
+STR_CELO_title1,"Celoush","Celoush",
+STR_CELO_title2,"present","uvádí",
+STR_CELO_title3,"Last Patrol of Tom Říha","Poslední hlídka Toma Říhy"
+STR_CELO_title4,"The End","Konec",
+STR_CELO_Task1Name,"Check Dubina and find message","Zkontroluj vrch Dubina a hledej zprávu"
+STR_CELO_Task1Descr1_0,"Go to <marker name='wp1area'>Dubina</marker>.","Dostaň se na protější kopec <marker name='wp1area'>Dubina</marker> a najdi zprávu od velení."
+STR_CELO_Task1Descr1_1,"Dubina","Dubina"
+STR_CELO_Task1Descr1_2,"Dubina","Dubina"
+STR_CELO_Task2Name,"Leave a message in Abandoned barn","Zanech zprávu v Opuštěné stodole"
+STR_CELO_Task2Descr1_0,"Go to <marker name='wp2area'>abandoned barn</marker> and leave a message.","Přesuň se k <marker name='wp2area'>opuštěné stodole</marker> na sever od Gorky a zanech v ní zprávu pro velení"
+STR_CELO_Task2Descr1_1,"Abandoned barn","Opuštěná stodola"
+STR_CELO_Task2Descr1_2,"Abandoned barn","Opuštěná stodola"
+STR_CELO_Task3Name,"Go to finish #3","Jeď do třetího cíle"
+STR_CELO_Task3Descr1_0,"Build a camp near <marker name='wp3area'>old military base</marker>","Postav tábor u <marker name='wp3area'>staré vojenské základny</marker>"
+STR_CELO_Task3Descr1_1,"Old military base","Stará vojenská základna"
+STR_CELO_Task3Descr1_2,"Old military base","Stará vojenská základna"
+
+CELO_Ukol_vyzvednout,"Get a message","Vyzvednout zprávu"
+CELO_Ukol_polozit,"Put a message","Zanechat zprávu"
+CELO_Ukol_zalozit,"Build a camp","Založit tábor"
+
+STR_CELO_Task4Name,"Check location","Hledej zprávu od místního kontaktu"
+STR_CELO_Task4Descr1_0,"Local informator from Polana has leaving message near village in <marker name='trubky'>pipe</marker>","Místní kontakt z Polany zanechává vzkazy na místě u silnice v <marker name='trubky'>trubkách</marker>"
+STR_CELO_Task4Descr1_1,"Pipes","Trubky"
+STR_CELO_Task4Descr1_2,"Pipes","Trubky"
+
+STR_CELO_Task5Name,"Find hidden car","Najdi skrytý vůz"
+STR_CELO_Task5Descr1_0,"Local informator informed you about <marker name='vuzLecka'>hidden suply truck</marker>. Stole it.","Místní kontakt vám zanechal zprávu o <marker name='vuzLecka'>schovaném zásobovacím voze ČDKZ</marker>. Asi nebude od věci ho sebrat."
+STR_CELO_Task5Descr1_1,"Chdkz supply truck","ČDKZ zásobovací vůz"
+STR_CELO_Task5Descr1_2,"Chdkz supply truck","ČDKZ zásobovací vůz"
+
+STR_CELO_Task5aDescr1_0,"Local informator informed you about <marker name='vuzLecka'>hidden suply truck</marker>, but second said that´s probalby trap. Destroy it.","Místní kontakt vám zanechal zprávu o <marker name='vuzLecka'>schovaném zásobovacím voze ČDKZ</marker>. Druhý však tvrdí, že jde o past. Bude lepší ho zničit."
+STR_CELO_Task5aDescr1_1,"Destroy ChdKz supply truck","Znič zásobovací vůz ČDKZ"
+STR_CELO_Task5aDescr1_2,"Destroy Chdkz supply truck","Znič zásobovací vůz ČDKZ"
+
+STR_CELO_Task5bDescr1_0,"Local informator informed about trap with car. He don´t know more!","Místní kontakt z Gorky vám píše, že je připravena past na vás s nějakým vozem. Víc neví."
+STR_CELO_Task5bDescr1_1,"Trap","Past"
+STR_CELO_Task5bDescr1_2,"Trap","Past"
+
+STR_CELO_Task6Name,"Check location","Hledej zprávu od místního kontaktu"
+STR_CELO_Task6Descr1_0,"Local informator from Gorka has leaving message near road in <marker name='zidka'>stone wall</marker>","Místní kontakt z Gorky zanechává vzkazy u silnice v malé <marker name='zidka'>kamenné zídce</marker>"
+STR_CELO_Task6Descr1_1,"Stone wall","Kamenná zídka"
+STR_CELO_Task6Descr1_2,"Stone wall","Kamenná zídka"
+
+STR_CELO_Task7Name,"Find and destroy enemy camp near Berezino","Najdi a znič nepřátelský tábor na západ od Berezina"
+STR_CELO_Task7Descr1_0,"In message from HQ was information about position of <marker name='Eoblast1'>enemy camp</marker> near Berezino. Destroy it!","Velitelství vám zanechalo zprávu ohledně předpokládaného <marker name='Eoblast1'>tábora čedaků</marker> u Berezina."
+STR_CELO_Task7Descr1_1,"First Chdkz camp","První tábor čedaků"
+STR_CELO_Task7Descr1_2,"First Chdkz camp","První tábor čedaků"
+
+STR_CELO_Task8Name,"Find and destroy enemy camp near Gorka","Najdi a znič nepřátelský tábor u Gorky"
+STR_CELO_Task8Descr1_0,"In message from HQ was information about position of <marker name='Eoblast2'>enemy camp</marker> near Gorka. Destroy it!","Velitelství vám zanechalo zprávu ohledně předpokládaného <marker name='Eoblast2'>tábora čedaků</marker> u Gorky."
+STR_CELO_Task8Descr1_1,"Second Chdkz camp","Druhý tábor čedaků"
+STR_CELO_Task8Descr1_2,"Second Chdkz camp","Druhý tábor čedaků"
+
+CELO_NAPA_BOD,"Ammo point","Záložní munice"
+
+STR_CELO_DEBRIEFING_TITLE","End of patrol","Konec hlídky"
+STR_CELO_DEBRIEFING_TEXT_1","It was last mission for my best friend Tom. He died. I will missed him.","Dnes zemřel člověk, který mi byl vždy nejbližší. Budeš mi chybět Tome."
+STR_CELO_DEBRIEFING_TEXT_2","It was last mission for Tom. My best friend leaved us before night. He don´t want to continue. I understand him, but I will missed him. Wish him luck.","Tato mise se stala poslední hlídkou mého nejlepšího kamaráda Toma. Spolu jsme kdysi utekli k NAPA a prošli si vším možným, ale Tom se poslední dobou uzavíral do sebe a nemluvil s nikým, ani se mnou. Dnes před nocí se rozhodl, že nás opustí. Rozumím mu, ale bude mi chybět. Přeji mu hodně štěstí, bude ho potřebovat. Stejně jako my."
+
+STR_CELO_Ukol_vytvoren,"New task","Nový úkol"
+STR_CELO_Ukol_splnen,"Task completed","Úkol splněn"
+STR_CELO_Ukol_upraven,"Task updated","Úkol upraven"
+STR_CELO_Ukol_zrusen,"Task canceled","Úkol zrušen"
+
+CELO_shit_tom_down,"Shit, Tom is down","Kurva, dostali Toma"
